@@ -149,5 +149,5 @@
 [Free Icon]: https://raw.githubusercontent.com/allinu/Awesome-Windows/master/images/free.svg "免费软件"
 [App-Store Icon]: https://raw.githubusercontent.com/allinu/Awesome-Windows/master/images/microsoft%20store.svg "应用商店软件"
 [Awesome Icon]: https://raw.githubusercontent.com/allinu/Awesome-Windows/master/images/awesome.svg "推荐介绍"
-[AD Icon]: https://raw.githubusercontent.com/allinu/Awesome-Windows/master/images/ad.svg "广告弹窗"
+[AD Icon]: https://raw.githubusercontent.com/allinu/Awesome-Windows/master/images/da.svg "广告弹窗"
 [Bundle Icon]: https://raw.githubusercontent.com/allinu/Awesome-Windows/master/images/warning%20.svg "捆绑软件"
