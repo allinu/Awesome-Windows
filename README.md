@@ -33,6 +33,7 @@
   - [后期处理](#后期处理)
   - [开发](#开发)
   - [终端](#终端)
+  - [个性化](#个性化)
   - [娱乐](#娱乐)
     - [平台](#平台)
     - [游戏](#游戏)
@@ -66,12 +67,15 @@
 
 * [Microsoft To Do](https://todo.microsoft.com/tasks/) 微软公司的待办事项清单应用，可在应用商店下载 ![][App-Store Icon] ![][Free Icon]
 * [Microsoft Onenote](https://www.microsoft.com/zh-cn/microsoft-365/onenote/digital-note-taking-app?ms.url=onenotecom&rtc=1) 微软公司的笔记应用，系统全面的笔记记录，推荐使用数位板记录，会有意想不到效果。
+* [火柴](http://www.huochaipro.com/) （原：火莹酱）快速查找文件、打开应用程序、局域网秒传文件、局域网聊天... ![][Free Icon]
+* [DeepL](https://www.deepl.com/home) 人工智能语言辅助，DeepL 训练人工智能，来理解和翻译文本 ![][Free Icon]
+* [MindMaster](http://www.edrawsoft.cn/download/mindmaster/) 功能完善的思维导图软件，主题以及高级功能需要付费
 
 ### 输入法
 
 * [小狼毫](https://rime.im/) Rime 输入法的Windows平台名称，主要的有点就是相应速度快，简单，都与没啥要求的人来说，挺好配置，当然也可以很复杂。缺点就是，可能有点难以接受它的联想输入和纠错  ![][Free Icon] ![][OSS Icon]
 * [搜狗输入法 智慧板](https://pinyin.sogou.com/zhihui/) 搜狗旗下的输入法，老牌子了,拥有强大的词库，输入体验良好，功能丰富，但是会有至少一次的广告弹窗，推荐相关产品，需要点击不再提醒 ![][Free Icon] ![][AD Icon]
-* [QQ 输入法](http://qq.pinyin.cn/) 腾讯公司旗下的输入法软件
+* [QQ 输入法](http://qq.pinyin.cn/) 腾讯公司旗下的输入法软件 ![][AD Icon] ![][Free Icon]
 
 ### 安全
 
@@ -107,6 +111,11 @@
 
 * [Windows Terminal](https://aka.ms/terminal) Windows 官方出品的一款终端工具，相比之前的CMD风格，美化不少。![][OSS Icon] ![][App-Store Icon] ![][Free Icon]
 
+### 个性化
+
+- [巨应壁纸](https://www.microsoft.com/store/apps/9MV8GK87MZ05) 这个 APP 名为巨应动态壁纸，GiantApp 工作室出品。 真正免费的开源软件，一个免费版的 wallpaper engine，简单易用，轻松把视频设置为壁纸，没有流氓广告。如果喜欢请考虑捐赠给作者。![][App-Store Icon] ![][Free Icon] ![][OSS Icon]
+- [腾讯桌面整理 独立版](https://guanjia.qq.com/product/zmzl/) 很好的桌面整理软件，但是点开链接记得下载独立版，而且不能与 巨应壁纸 一起使用，整体来说：功能丰富。![][Free Icon]
+
 ### 娱乐
 
 #### 平台
@@ -139,7 +148,6 @@
 5. 安装完毕
 
 <br />
-
 
 **[⬆ 回到顶部](#应用程序)**
 
