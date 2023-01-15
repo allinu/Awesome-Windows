@@ -1,4 +1,4 @@
-![Awesome Windows Cover](https://github.com/allinu/Awesome-Windows/blob/master/images/Github%20Cover-Awesome%20Windows.png?raw=true)
+![Awesome Windows Cover](https://github.com/allinu/Awesome-Windows/blob/main/images/Github%20Cover-Awesome%20Windows.png?raw=true)
 
 **Windows上优质&精选的最佳应用程序及工具列表**
 
