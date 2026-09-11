@@ -70,6 +70,7 @@
 * [火柴](http://www.huochaipro.com/) （原：火莹酱）快速查找文件、打开应用程序、局域网秒传文件、局域网聊天... ![][Free Icon]
 * [DeepL](https://www.deepl.com/home) 人工智能语言辅助，DeepL 训练人工智能，来理解和翻译文本 ![][Free Icon]
 * [MindMaster](http://www.edrawsoft.cn/download/mindmaster/) 功能完善的思维导图软件，主题以及高级功能需要付费
+* [Orkas](https://orkas.ai/?source=gh_allinu) 开源、本地优先的 AI 团队桌面应用，由 Commander 通过一个对话协调专业 Agent 完成复杂工作。
 
 ### 输入法
 
