@@ -101,6 +101,7 @@
 ### 后期处理
 
 * [DaVinci Resolve](https://www.blackmagicdesign.com/products/davinciresolve/) 免费的跨平台后期处理软件，完整的处理流程体验。![][Free Icon]
+* [OrkasVideoStudio](https://github.com/Orkas-AI/Orkas-VideoStudio) - MIT 开源、本地优先的 CLI 与 MCP 视频工具包，让编程 Agent 通过可编辑的 plan.json 时间线编排和剪辑视频。
 
 ### 开发
 
