@@ -70,6 +70,7 @@
 * [火柴](http://www.huochaipro.com/) （原：火莹酱）快速查找文件、打开应用程序、局域网秒传文件、局域网聊天... ![][Free Icon]
 * [DeepL](https://www.deepl.com/home) 人工智能语言辅助，DeepL 训练人工智能，来理解和翻译文本 ![][Free Icon]
 * [MindMaster](http://www.edrawsoft.cn/download/mindmaster/) 功能完善的思维导图软件，主题以及高级功能需要付费
+- [LatchLayout](https://github.com/stanczykwyatt/latchlayout) - Windows 11 工作区启动工具，长按自定义按键或鼠标按钮，打开应用、浏览器配置文件及网址并按显示器布局排列（预览版）。
 
 ### 输入法
 
